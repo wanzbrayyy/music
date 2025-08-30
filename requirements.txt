@@ -1,0 +1,8 @@
+
+pyrogram
+tgcrypto
+python-dotenv
+yt-dlp
+pytgcalls==3.0.0.dev23
+aiohttp
+spotipy
